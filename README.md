@@ -19,6 +19,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * ESP8266 Internet of Things Cookbook [[Download]](/book/ESP8266%20Internet%20of%20Things%20Cookbook.pdf)
 * From Machine-to-Machine to the Internet of Things [[Download]](/book/From%20Machine-to-Machine%20to%20the%20Internet%20of%20Things.epub)
 * Getting Started with .NET Gadgeteer [[Download]](/book/Getting%20Started%20with%20.NET%20Gadgeteer.pdf)
+* Getting Started with Bluetooth Low Energy [[Download]](/book/Getting%20Started%20with%20Bluetooth%20Low%20Energy.pdf)
 * Getting Started with Electronic Projects [[Download]](/book/Getting%20Started%20with%20Electronic%20Projects.pdf)
 * Getting Started with Sensors [[Download]](/book/Getting%20Started%20with%20Sensors.pdf)
 * Getting Started with the Internet of Things [[Download]](/book/Getting%20Started%20with%20the%20Internet%20of%20Things.pdf)
@@ -38,5 +39,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Sensor Technologies - Healthcare, Wellness and Environmental Applications [[Download]](/book/Sensor%20Technologies%20-%20Healthcare%2C%20Wellness%20and%20Environmental%20Applications.epub)
 * Smart Internet of Things Projects [[Download]](/book/Smart%20Internet%20of%20Things%20Projects.pdf)
 * Wearable Sensors [[Download]](/book/Wearable%20Sensors.epub)
+* Winning Design! - LEGO MINDSTORMS EV3 Design Patterns for Fun and Competition - Second Edition [[Download]](/book/Winning%20Design%21%20-%20LEGO%20MINDSTORMS%20EV3%20Design%20Patterns%20for%20Fun%20and%20Competition%20-%20Second%20Edition.pdf)
 * Winning Design! LEGO MINDSTORMS NXT Design Patterns for Fun and Competition [[Download]](/book/Winning%20Design%21%20LEGO%20MINDSTORMS%20NXT%20Design%20Patterns%20for%20Fun%20and%20Competition.pdf)
 
